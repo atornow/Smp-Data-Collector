@@ -1,6 +1,0 @@
-name: PlayerDataCollector
-version: '1.0-SNAPSHOT'
-main: truesmp.data.Main
-api-version: '1.20'
-description: A plugin for loggin player data to PostgreSQL database.
-website: truesmp.org
