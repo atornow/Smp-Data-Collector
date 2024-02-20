@@ -1,0 +1,4 @@
+database:
+  url: "jdbc:postgresql://serverIP:5432/minecraft_data"
+  username: ""
+  password: ""
